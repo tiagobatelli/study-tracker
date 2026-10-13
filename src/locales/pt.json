@@ -1,0 +1,36 @@
+{
+  "app_name": "Study Tracker",
+  "login": {
+    "title": "Entrar",
+    "email": "E-mail",
+    "password": "Senha",
+    "btn_login": "Entrar",
+    "btn_register": "Criar conta",
+    "no_account": "Não tem conta?",
+    "have_account": "Já tem conta?",
+    "forgot_password": "Esqueceu a senha?",
+    "reset_instructions": "Digite seu e-mail para receber o link de redefinição de senha.",
+    "btn_reset": "Enviar link",
+    "back_to_login": "Voltar ao login",
+    "remember_me": "Lembre de mim"
+  },
+
+  "dashboard": {
+    "title": "Meu Progresso",
+    "logout": "Sair",
+    "logout_confirm": "Tem certeza que deseja sair?",
+    "sessions": "Sessões de Estudo",
+    "tasks": "Tarefas",
+    "add_session": "Adicionar Sessão",
+    "add_task": "Adicionar Tarefa",
+    "subject": "Matéria/Tecnologia",
+    "date": "Data",
+    "hours": "Horas estudadas",
+    "task_name": "Nome da tarefa",
+    "delete": "Deletar",
+    "completed": "Concluída",
+    "pending": "Pendente",
+    "no_sessions": "Nenhuma sessão registrada ainda.",
+    "no_tasks": "Nenhuma tarefa registrada ainda."
+  }
+}
